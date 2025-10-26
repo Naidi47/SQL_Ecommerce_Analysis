@@ -106,10 +106,8 @@ Once you execute all queries, your report may include:
 ---
 
 ## 🧾 Author
-**Brahmanaidu Naidu**  
-📧 *[Your Email]*  
-🔗 *[LinkedIn Profile]*  
-
+**Brahmanaidu **  
+📧 *[muchukutlabrahmanaidu@gmail.com]*  
 ---
 
 ## 💼 Portfolio Note
