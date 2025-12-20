@@ -1,6 +1,6 @@
-# 🗃️ E-Commerce Orders Analysis using SQL (PostgreSQL)
+#  E-Commerce Orders Analysis using SQL (PostgreSQL)
 
-## 📋 Project Overview
+##  Project Overview
 This project analyzes an **E-Commerce Orders Dataset** using **PostgreSQL**.  
 The goal is to understand customer purchasing behavior, regional revenue performance, and key product insights using SQL queries.
 
@@ -8,7 +8,7 @@ The project follows a clean, step-by-step structure — from table creation to f
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 - Understand data relationships using SQL joins
 - Analyze total sales, top products, and customer behavior
 - Apply advanced SQL concepts (window functions, subqueries)
@@ -35,7 +35,7 @@ ecommerce-sql-analysis/
 
 ---
 
-## 🧩 Dataset Description
+##  Dataset Description
 The data simulates a small e-commerce system with four tables:
 
 | Table | Description |
@@ -47,14 +47,14 @@ The data simulates a small e-commerce system with four tables:
 
 ---
 
-## 🪄 Tools Used
+##  Tools Used
 - **PostgreSQL** – for all SQL operations  
 - **pgAdmin / DBeaver** – to execute SQL scripts  
 - **Git & GitHub** – for version control and portfolio management  
 
 ---
 
-## 🧭 How to Run This Project
+##  How to Run This Project
 
 ### Step 1️⃣ — Create Database
 1. Open pgAdmin (or DBeaver).  
@@ -87,7 +87,7 @@ Open each SQL file from the `sql/` folder and run them **in this exact order**:
 
 ---
 
-## 🧠 Learning Highlights
+##  Learning Highlights
 - Hands-on PostgreSQL practice using real-world-style data  
 - Understanding of joins, group by, and aggregations  
 - Exposure to window functions (`RANK`, `SUM OVER`, etc.)  
